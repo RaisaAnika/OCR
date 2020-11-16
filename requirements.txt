@@ -1,0 +1,8 @@
+tesseract 4.1.1
+leptonica-1.80.0
+pytesseract-0.3.6    
+conda-4.9.2
+opencv-4.1.0 
+
+pillow
+
